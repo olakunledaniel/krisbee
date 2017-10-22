@@ -13,5 +13,7 @@ and open the template in the editor.
         <?php
           echo 'come';
         ?>
+        <p>I'm doing well. Thank God. Jesus is Lord</p>
+        <h2>I am glad</h2>
     </body>
 </html>
